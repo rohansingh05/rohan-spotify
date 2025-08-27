@@ -1,6 +1,7 @@
 # 🎵 Rohan Spotify – Clone Project
+
 A Spotify-inspired music player built with **HTML**, **CSS**, and **JavaScript**.
-<br>
+
 This is my second cloning project, where I explored and practiced core JavaScript concepts such as **`async/await`**, **event handling**, and the **Fetch API**.
 
 ## ✨ What I Learned
